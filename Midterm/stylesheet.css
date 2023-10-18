@@ -3,6 +3,12 @@
     max-width:900px;
     margin:0 auto;
 }
+
+#bylineanddate {
+    font-size: x-small;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 title{
     font-size: 20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
