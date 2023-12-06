@@ -1,4 +1,4 @@
-body {
+body{
     font-family: 'Open Sans', 'Arial', sans-serif;
     font-size: 1em;
     font-weight: 400;
@@ -6,7 +6,7 @@ body {
     
 }
 
-h1 {
+h1{
     font-size: 3em;
     color: #33485e;
     font-variant-caps: titling-caps;
