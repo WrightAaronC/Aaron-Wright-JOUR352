@@ -8,11 +8,14 @@ body{
     
 }
 
-h1{
+#name{
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
-    text-align: center;
+    margin: 0 auto
+    width: 60%
+    min-width: 300px;
+    border-bottom: 1px; color: #33485e;
 }
 /*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
 #title{
