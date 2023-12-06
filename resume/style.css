@@ -9,6 +9,6 @@ body{
 h1{
     font-size: 3em;
     color: #33485e;
-    font-variant-caps: titling-caps;
+    text-transform: uppercase;
     text-align: center;
 }
