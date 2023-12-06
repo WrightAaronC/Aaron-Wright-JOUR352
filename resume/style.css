@@ -5,3 +5,10 @@ body {
     color: #444;
     
 }
+
+h1 {
+    font-size: 3em;
+    color: #33485e;
+    font-variant-caps: titling-caps;
+    text-align: center;
+}
