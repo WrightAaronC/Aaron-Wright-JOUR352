@@ -1,3 +1,5 @@
+/*STYLES FOR MY RESUME! */
+
 body{
     font-family: 'Open Sans', 'Arial', sans-serif;
     font-size: 1em;
@@ -12,14 +14,14 @@ h1{
     text-transform: uppercase;
     text-align: center;
 }
-
+/*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
 #title{
     font-size: 30px;
     text-transform: uppercase;
     color: #33485e;
     font-weight: 400;
 }
-
+/*FOR EACH OF MY SECTIONS*/
 h2{
     font-size: 1.5em;
     font-weight: 400;
@@ -41,5 +43,5 @@ h4{
 h5{
     font-weight: 400;
     font-style: italic;
-    
+
 }
