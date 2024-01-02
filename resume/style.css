@@ -13,10 +13,11 @@ body{
     color: #33485e;
     text-transform: uppercase;
     margin: 0 auto
-    width: 60%
+    width: 60%;
     min-width: 300px;
     border-bottom: 1px; color: #33485e;
 }
+
 /*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
 #title{
     font-size: 30px;
