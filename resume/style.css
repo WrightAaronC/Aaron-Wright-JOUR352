@@ -30,7 +30,6 @@ body{
 /*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
 #title{
     font-size: 30px;
-    text-transform: uppercase;
     color: #33485e;
     font-weight: 600px;
     margin-top: 20px;
