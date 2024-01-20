@@ -72,4 +72,10 @@ CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
 .menu{
     margin: 0px;
     padding: 0px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
 }
