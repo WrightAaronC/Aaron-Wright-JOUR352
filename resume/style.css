@@ -85,6 +85,7 @@ CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
     padding: 0px;
     text-align: center;
     display: inline;
+    list-style-type: none;
 }
 
 #do{
