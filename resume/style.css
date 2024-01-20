@@ -22,7 +22,9 @@ body{
     margin: 0 auto;
     width: 60%;
     min-width: 300px;
-    bottom: 1px;
+    border-bottom: 1px;
+    border-color: #33485e;
+    text-align: center;
 }
 
 /*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
