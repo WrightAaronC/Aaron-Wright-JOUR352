@@ -24,7 +24,10 @@ body{
     font-size: 30px;
     text-transform: uppercase;
     color: #33485e;
-    font-weight: 400;
+    font-weight: 600px;
+    margin-top: 20px;
+    margin: 0px;
+    text-align: center;
 }
 /*FOR EACH OF MY SECTIONS. I UPDATED MY CODE TO INCLUDE TINGS LIKE
 DIVS, IDS AND CLASSES. REAL COOL STUFF.*/
@@ -73,9 +76,17 @@ CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
     margin: 0px;
     padding: 0px;
     text-align: center;
+    display: inline;
 }
 
-li {
-    display: inline;
-    list-style-type: none;
+#do{
+    margin-top: 5px;
+    margin: 0px;
+}
+
+.top{
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
