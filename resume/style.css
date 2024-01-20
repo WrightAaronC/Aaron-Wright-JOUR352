@@ -8,15 +8,21 @@ body{
     
 }
 
+#container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
 #name{
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
-    margin: 0 auto
+    margin: 0 auto;
     width: 60%;
     min-width: 300px;
-    border-bottom: 1px;
-    border-color: #33485e;
+    bottom: 1px;
 }
 
 /*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
