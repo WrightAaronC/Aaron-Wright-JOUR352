@@ -2,6 +2,7 @@
     width:100%;
     max-width:900px;
     margin:0 auto;
+    padding: 20px;
 }
 
 #bylineanddate {
@@ -35,4 +36,13 @@
     text-align: center;
     font-size: 1.2em;
     color: #2980b9;
+}
+
+#masthead {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+
 }
