@@ -1,6 +1,18 @@
-/*Add CSS that only activates on screens less than 480x here*/
-@media screen and (max-width: 480px) {
-    p {
-        font-size:16px;
+
+@media screen and (max-width: 500px) {
+    div {
+       background-color:#cdcdcd;
+       width:100%;
+     }    
+     h1 {
+       font-size:1.5em;
+       font-family:sans-serif;
+     }       
+     h2 {
+       font-size:1em;
+       font-family:sans-serif;
+     }       
+     p {
+       font-family:sans-serif;
+     }
     }
-   }
