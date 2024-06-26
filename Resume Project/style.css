@@ -36,6 +36,7 @@
 .row {
     margin-bottom: 10px;
     border: 5px black;
+    padding-left: 2rem;
 }
 
 .nav-item {
