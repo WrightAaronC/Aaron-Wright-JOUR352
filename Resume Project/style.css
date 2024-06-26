@@ -28,6 +28,15 @@
     font-weight: bold;
 }
 
+.bannertitle {
+    font-family: "Newsreader", Georgia, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-optical-sizing: auto;
+    color: #2B6FD6;
+    font-weight: bold;
+    text-align: center;
+}
+
 .bodytext {
     font-family: "Fjalla One", Arial, Helvetica, sans-serif;
     font-size: x-large;
@@ -67,7 +76,7 @@
 }
 
 .px-4-py-5-my-5-text-center {
-    margin: 20px;
+    margin: auto;
     width: fit-content;
     border: 5px solid black;
     padding: 15px;
