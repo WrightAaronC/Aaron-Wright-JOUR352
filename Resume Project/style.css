@@ -25,6 +25,16 @@
     color: #2B6FD6;
 }
 
+.nav-item {
+    font-family: "Newsreader", Georgia, 'Times New Roman', serif;
+    color:#2B6FD6
+}
+
+.nav-item-special {
+    font-family: "Newsreader", Georgia, 'Times New Roman', serif;
+    color: crimson;
+}
+
 @media screen and (max-width: 500px) {
     div {
        background-color:#cdcdcd;
