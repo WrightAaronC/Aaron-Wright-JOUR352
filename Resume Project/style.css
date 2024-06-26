@@ -19,7 +19,7 @@ p {
     color: black;
 }
 
-#title {
+.title {
     font-family: 'Newsreader' Georgia, 'Times New Roman', serif;
     font-optical-sizing: auto;
     color: #2B6FD6;
