@@ -27,6 +27,7 @@
 
 .container {
     margin: 10;
+    border: 5px black
 }
 
 .nav-item {
