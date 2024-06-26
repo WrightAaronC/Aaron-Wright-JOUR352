@@ -12,7 +12,7 @@
     color: #2B6FD6;
 }
 
-p {
+.bodytext {
     font-family: "Fjalla One", Arial, Helvetica, sans-serif;
     font-size: medium;
     font-optical-sizing: auto;
