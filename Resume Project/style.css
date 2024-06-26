@@ -25,6 +25,10 @@
     color: #2B6FD6;
 }
 
+.container {
+    margin: 10;
+}
+
 .nav-item {
     font-family: "Newsreader", Georgia, 'Times New Roman', serif;
     color:#2B6FD6
