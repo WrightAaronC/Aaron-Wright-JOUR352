@@ -28,22 +28,22 @@
 
 .container {
     margin: 10;
-    border: 5px black
+    border: 5px black;
 }
 
 .nav-item {
     font-family: "Newsreader", Georgia, 'Times New Roman', serif;
-    color: #2B6FD6; 
+    color:#2B6FD6; 
 }
 
 .nav-item-special {
     font-family: "Newsreader", Georgia, 'Times New Roman', serif;
-    color: crimson;
+    color:crimson;
 }
 
 #navbar-brand {
     font-family: "Newsreader", Georgia, 'Times New Roman', serif;
-    color:#2B6FD6
+    color:#2B6FD6;
 }
 
 @media screen and (max-width: 500px) {
