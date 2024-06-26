@@ -14,7 +14,7 @@
 
 .bodytext {
     font-family: "Fjalla One", Arial, Helvetica, sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
     font-optical-sizing: auto;
     color: black;
 }
@@ -28,6 +28,7 @@
 
 .container {
     margin: 20px;
+    width: fit-content;
     border: 5px solid black;
     padding: 15px;
 }
