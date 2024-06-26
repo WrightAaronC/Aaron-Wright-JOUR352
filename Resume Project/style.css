@@ -26,8 +26,14 @@
     color: #2B6FD6;
 }
 
+.container {
+    margin: 20px;
+    border: 5px solid black;
+    padding: 15px;
+}
+
 .row {
-    margin: 10;
+    margin-bottom: 10px;
     border: 5px black;
 }
 
