@@ -40,6 +40,11 @@
     color: crimson;
 }
 
+#navbar-brand {
+    font-family: "Newsreader", Georgia, 'Times New Roman', serif;
+    color:#2B6FD6
+}
+
 @media screen and (max-width: 500px) {
     div {
        background-color:#cdcdcd;
