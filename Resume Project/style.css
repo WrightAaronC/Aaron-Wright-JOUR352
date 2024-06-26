@@ -20,6 +20,14 @@
     font-weight: bold;
 }
 
+.titlespecial {
+    font-family: "Newsreader", Georgia, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-optical-sizing: auto;
+    color: black;
+    font-weight: bold;
+}
+
 .bodytext {
     font-family: "Fjalla One", Arial, Helvetica, sans-serif;
     font-size: x-large;
