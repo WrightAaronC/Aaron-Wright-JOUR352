@@ -66,12 +66,14 @@
     color: crimson;
 }
 
-.px-4 py-5 my-5 text-center {
+.px-4-py-5-my-5-text-center {
     margin: 20px;
     width: fit-content;
     border: 5px solid black;
     padding: 15px;
     background-color: #cdcdcd;
+    background-position: center;
+    text-align: center;
 }
 
 #navbar-brand {
