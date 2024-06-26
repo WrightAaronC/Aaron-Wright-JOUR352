@@ -58,6 +58,15 @@
     background-color: #cdcdcd;
 }
 
+.containerspecial {
+    margin: 20px;
+    width: fit-content;
+    border: 5px solid black;
+    padding: 15px;
+    background-image: url("C:\Aaron-Wright-JOUR352\Resume Project\MarylandAaron.jpg");
+    opacity: 0.5;
+}
+
 .row {
     margin-bottom: 10px;
     border: 5px black;
