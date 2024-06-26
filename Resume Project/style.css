@@ -25,7 +25,7 @@
     color: #2B6FD6;
 }
 
-div {
+.container {
     margin: 10;
     border: 5px black
 }
