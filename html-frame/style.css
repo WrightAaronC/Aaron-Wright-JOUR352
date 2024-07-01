@@ -16,7 +16,7 @@ body{
 .Headline{
     font-size: 3em;
     color: black;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin: 0 auto;
     max-width: 600px;
     width: 100%;
@@ -24,45 +24,34 @@ body{
     text-align: center;
 }
 
-.Byline
-
-
-}
-
-.sectionheader{
-    font-size: 1.5em;
-    font-weight: 400;
+.Byline{
+    font-size: 2em;
+    color: gray;
     text-transform: uppercase;
-    color:white;
-    background-color: #33485e;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    margin: 0;
-    width: 70%;
-    min-width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+
 }
 
-.jobtitle{
-    font-weight: 600;
-    font-size: 1.5em;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    margin: 0;
+.Chapter-Headline{
+    font-size: 2em;
+    color: black;
+    text-transform: capitalize;
+    text-align: left;
+    margin: 0 auto;
 }
+
+.bodytext{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    text-align: left;
+    margin: 0 auto;
+}
+
 /*THIS IS A CLASS, WHICH IS DIFFERENT FROM AN ID BECAUSE
 CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
-.organization{
-    font-weight: 400;
-    font-size: 1.25em;
-}
-
-.date{
-    font-weight: 400;
-    font-style: italic;
-    margin: 0;
-    margin-top: 2px;
-
-}
 
 .description{
     margin-top: 10px;
