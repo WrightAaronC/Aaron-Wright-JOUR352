@@ -6,36 +6,29 @@ body{
     
 }
 
-#container{
+.container{
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
     padding-bottom: 50px;
 }
 
-#name {
+.Headline{
     font-size: 3em;
-    color: #33485e;
+    color: black;
     text-transform: uppercase;
     margin: 0 auto;
     max-width: 600px;
     width: 100%;
     min-width: 300px;
-    border-bottom: 1px solid #33485e;
     text-align: center;
 }
 
-/*HAD TO MAKE A SPECIAL ID FOR THE TITLE*/
-#title{
-    font-size: 30px;
-    color: #33485e;
-    font-weight: 600px;
-    margin-top: 20px;
-    margin: 0px;
-    text-align: center;
+.Byline
+
+
 }
-/*FOR EACH OF MY SECTIONS. I UPDATED MY CODE TO INCLUDE TINGS LIKE
-DIVS, IDS AND CLASSES. REAL COOL STUFF.*/
+
 .sectionheader{
     font-size: 1.5em;
     font-weight: 400;
@@ -91,7 +84,7 @@ CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
     display: inline-block;
 }
 
-#do{
+.do{
     margin-top: 5px;
     margin: 0px;
 }
