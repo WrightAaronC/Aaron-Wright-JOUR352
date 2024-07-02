@@ -47,6 +47,12 @@
     font-size: small;
 }
 
+.hero{
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+}
+
 /*THIS IS A CLASS, WHICH IS DIFFERENT FROM AN ID BECAUSE
 CLASSES ARE MEANT TO BE REUSED AND REPEATED.*/
 
