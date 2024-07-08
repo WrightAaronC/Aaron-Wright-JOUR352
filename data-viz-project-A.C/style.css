@@ -60,7 +60,10 @@
     width: auto;
     padding:10px;
     background-color: black;
+    font-family: "Stoke," 'Times New Roman', Times, serif;
     color: whitesmoke;
+    text-align: center;
+    font-size: xx-large;
 }
 
 
