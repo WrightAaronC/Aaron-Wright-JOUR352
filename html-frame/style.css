@@ -26,3 +26,10 @@
     font-size: large;
 
 }
+
+.byline {
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    font-weight: 100;
+    font-size: medium;
+}
