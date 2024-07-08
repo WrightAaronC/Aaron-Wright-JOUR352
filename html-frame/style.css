@@ -3,12 +3,13 @@
     color: black;
     font-weight: 100;
     font-size: small;
+    text-align: left;
 }
 
 .container {
     margin: auto;
     width: auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 .bodytext {
