@@ -1,0 +1,11 @@
+.caption {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: 200;
+}
+
+.container {
+    margin: auto;
+    width: auto;
+    padding: 20px;
+}
