@@ -1,11 +1,27 @@
 .caption {
     font-family: 'Courier New', Courier, monospace;
     color: black;
-    font-weight: 200;
+    font-weight: 100;
+    font-size: small;
 }
 
 .container {
     margin: auto;
     width: auto;
     padding: 20px;
+}
+
+.bodytext {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.headline {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 200;
+    font-size: large;
+
 }
