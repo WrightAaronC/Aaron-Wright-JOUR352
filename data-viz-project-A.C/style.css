@@ -17,29 +17,8 @@
     font-style: normal;
   }
 
-.caption {
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
-    font-weight: 100;
-    font-size: small;
-    text-align: left;
-}
-
-.container {
-    margin: auto;
-    width: auto;
-    padding: 10px;
-}
-
-.bodytext {
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
-    font-weight: 100;
-    font-size: medium;
-}
-
-.headline {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  .headline {
+    font-family: "Stoke", 'Times New Roman', Times, serif;
     color: black;
     font-weight: 400;
     font-size: xx-large;
@@ -48,9 +27,41 @@
 }
 
 .byline {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Stoke", 'Times New Roman', Times, serif;
     color: gray;
     font-weight: 100;
     font-size: medium;
     text-align: center;
 }
+
+.caption {
+    font-family: "Stoke", 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 100;
+    font-size: small;
+    text-align: left;
+}
+
+.bodytext {
+    font-family: "Yanone-Kaffeesatz", Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.container {
+    margin: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.topper {
+    margin: auto;
+    width: auto;
+    padding:10px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+
