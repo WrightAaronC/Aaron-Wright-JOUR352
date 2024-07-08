@@ -23,7 +23,8 @@
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: black;
     font-weight: 200;
-    font-size: large;
+    font-size: xx-large;
+    text-align: center;
 
 }
 
@@ -32,4 +33,5 @@
     color: gray;
     font-weight: 100;
     font-size: medium;
+    text-align: center;
 }
