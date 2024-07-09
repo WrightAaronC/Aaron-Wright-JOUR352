@@ -18,8 +18,7 @@
   }
 
   .headline {
-    font-family: "Yanone Kaffeesatz", Arial, Helvetica, sans-serif;
-    color: black;
+    font-family: "Stoke", 'Times New Roman', Times, serif;
     font-weight: 400;
     font-size: xx-large;
     text-align: center;
@@ -27,7 +26,7 @@
 }
 
 .byline {
-    font-family: "Stoke", 'Times New Roman', Times, serif;
+    font-family:"Yanone Kaffeesatz", Arial, Helvetica, sans-serif;
     color: gray;
     font-weight: 100;
     font-size: medium;
@@ -66,5 +65,10 @@
     font-size: xx-large;
 }
 
+footer {
+    background-color: black;
+    font-family: "Stoke", 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
 
 
