@@ -51,8 +51,9 @@
 .pullquotefloat {
     text-align: center;
     font-family: "Stoke", 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: x-large;
     color: #2980b9;
+    accent-color: black;
 }
 
 .container {
