@@ -65,7 +65,7 @@
     font-size: xx-large;
 }
 
-footer {
+.card-body {
     background-color: black;
     font-family: "Stoke", 'Times New Roman', Times, serif;
     color: whitesmoke;
