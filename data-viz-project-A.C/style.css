@@ -48,7 +48,8 @@
     font-size: x-large;
 }
 
-.col-md-4 {
+#pullquotefloat {
+    float: right;
     width: 40%;
     margin: 0 0 20px 20px;
     text-align: center;
